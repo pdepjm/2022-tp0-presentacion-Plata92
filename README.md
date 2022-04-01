@@ -2,7 +2,7 @@
 
 ## Estudiante: _Patricio Augusto Lata_
 
-![mi foto]Patricio.jpeg
+![mi foto](Patricio.jpeg)
 
 # _Mi nombre es Patricio, naci en san clemente del tuyu y hace 10 años vivo en caba, estoy cursando el segundo año de la carrera_
 
